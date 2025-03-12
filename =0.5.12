@@ -1,0 +1,7 @@
+Collecting lap
+  Downloading lap-0.5.12-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl.metadata (6.2 kB)
+Requirement already satisfied: numpy>=1.21.6 in /usr/local/lib/python3.8/dist-packages (from lap) (1.23.5)
+Downloading lap-0.5.12-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl (1.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.7/1.7 MB 2.4 MB/s eta 0:00:00
+Installing collected packages: lap
+Successfully installed lap-0.5.12

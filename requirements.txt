@@ -1,0 +1,6 @@
+flask
+flask-cors
+firebase-admin
+werkzeug
+lap>=0.5.12
+shapely>=2.0.0
