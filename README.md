@@ -24,7 +24,7 @@ Coconut cultivation in Tumkur faces challenges such as unpredictable yield, dise
 
 A drone or camera captures images of the coconut trees. These are processed on the edge device (Jetson Nano), which runs trained AI models (YOLOv11 for maturity, MobileNetV2 for disease). Results are sent to a backend (Flask) and displayed on a React dashboard. A large language model interprets the results and provides localized farming advice.
 
-![System Architecture](images/setup.png)
+![Setup](setup.png)
 
 ---
 
